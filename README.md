@@ -7,5 +7,8 @@ O repositório é estudo da biblioteca ReactJS.
 
 # Sobre Resultado
 
-### *Tela com repositórios para comparação* ###
-![](src/assets/screenshot.png)
+#### *Tela inicial com formulário para adicionar repositórios* ####
+![](src/assets/gitcompare-screenshot-home.png)
+
+#### *Tela com repositórios para comparação* ####
+![](src/assets/gitcompare-screenshot-list.png)
