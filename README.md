@@ -9,6 +9,7 @@ O repositório é estudo da biblioteca React e ReactJS.
 
 ## Sobre Aplicação
 A aplicação lista repositórios do GitHub para comparação.
+
 Nela é possível comparar diversos repositórios de um mesmo proprietário ou diversos repositórios de diversos usuários.
 
 [Ver GitCompare online](http://lab.yeza.com.br/gitcompare)
