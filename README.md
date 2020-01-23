@@ -3,13 +3,13 @@ O repositório é estudo da biblioteca React e ReactJS.
 
 ## Tecnologias e Conceitos
 * React e ReactJS
-* Componentização
+* Api GitHub
 * Component fullstate e stateless
 * Estilização com styled-component
 
 ## Sobre Aplicação
-A aplicação lista repositórios do GitHub para comparação.
-Nela é possível comparar diversos repositórios de um mesmo proprietário ou diversos repositórios de diversos usuários.
+A aplicação lista repositórios do GitHub.
+Nela é possível comparar repositórios de um proprietário ou repositórios de diversos proprietários.
 
 [Ver GitCompare online](http://lab.yeza.com.br/gitcompare)
 
